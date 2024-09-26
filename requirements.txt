@@ -1,0 +1,2 @@
+# requirements.txt
+# No external libraries are required for this command-line text processing tool.

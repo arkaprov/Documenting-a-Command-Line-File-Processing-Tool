@@ -1,0 +1,5 @@
+This is an example of a sample text file.
+This text file is used to test the command-line tool.
+We can replace words, count words, count characters, and find specific words.
+For example, the word "example" appears multiple times in this text file.
+Let's replace the word "new" with the word "new" as part of the test.
